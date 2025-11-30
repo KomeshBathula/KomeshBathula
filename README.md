@@ -75,12 +75,35 @@
 <br clear="both">
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KomeshBathula&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=ocean_dark&locale=en&hide_border=false&order=1" height="179" alt="stats graph" /> <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=KomeshBathula&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=solarized-dark&hide_border=true&order=2" height="202" alt="languages graph" /> <br>
-  <img src="https://streak-stats.demolab.com?user=KomeshBathula&locale=en&mode=daily&theme=ocean_dark&hide_border=false&border_radius=5&date_format=M%20j%5B,%20Y%5D&order=3" height="150" alt="streak graph" /> <br>
-  <img src="https://github-profile-trophy.vercel.app?username=KomeshBathula&theme=dark_lover&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=false&order=4" height="150" alt="trophy graph" /> <br>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KomeshBathula&radius=16&theme=gotham&area=true&order=5&hide_border=false" height="300" alt="activity-graph graph"  />
+
+## 📊 **GITHUB ANALYTICS** 📈
+
 </div>
+
+<div align="center">
+  
+<img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=KomeshBathula&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+<img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=KomeshBathula&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+<br/>
+<img width="325" align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=KomeshBathula&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KomeshBathula&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+</div>
+
+---
+
+<div align="center">
+
+## 🏆 **ACHIEVEMENTS & TROPHIES** 🥇
+
+<img src="https://github-profile-trophy.vercel.app/?username=KomeshBathula&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1"/>
+
+</div>
+
+---
 
 ###
 
