@@ -8,9 +8,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=KomeshBathula.KomeshBathula&left_color=crimson"  />
-</div>
 
 ###
 
