@@ -1,9 +1,9 @@
 name: GitHub Metrics
 
 on:
+  workflow_dispatch:
   schedule:
     - cron: "0 0 * * *"
-  workflow_dispatch:
 
 jobs:
   metrics:
@@ -18,3 +18,5 @@ jobs:
           plugin_trophies: yes
           plugin_trophies_limit: 8
           filename: metrics.svg
+          committer_branch: main
+          committer_message: "chore: update metrics"
