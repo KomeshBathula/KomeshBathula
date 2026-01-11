@@ -3,7 +3,7 @@
 ###
 
 <div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=slice&height=100&section=header&reversal=false&text=I'm%20Komesh%20Bathula&fontSize=50&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=random"  />
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&center=true&vCenter=true&random=true&width=435&lines=I'm+Komesh+Bathula" alt="Typing SVG" /></a>
 </div>
 
 ###
@@ -96,7 +96,12 @@
 
 ## 🏆 **ACHIEVEMENTS & TROPHIES** 🥇
 
-<img src="https://github-profile-trophy.vercel.app/?username=KomeshBathula&theme=radical&no-frame=false&no-bg=false&margin-w=4&row=1"/>
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=KomeshBathula&theme=onedark" alt="GitHub Trophies"/>
+  </a>
+</p>
+
 
 </div>
 
@@ -106,9 +111,9 @@
 
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KomeshBathula/KomeshBathula/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/KomeshBathula/KomeshBathula/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/KomeshBathula/KomeshBathula/output/pacman-contribution-graph.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
 </picture>
 
 
