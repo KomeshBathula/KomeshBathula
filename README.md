@@ -100,14 +100,12 @@
 
 <div align="center">
 
-## 🏆 **ACHIEVEMENTS & TROPHIES** 🥇
+<h2 align="center">🏆 Achievements & Trophies</h2>
 
 <p align="center">
-  <img
-    src="https://github-profile-trophy.vercel.app/?username=KomeshBathula&theme=onedark&no-frame=true&no-bg=true&margin-w=15"
-    alt="GitHub Trophies"
-  />
+  <img src="metrics.svg" alt="GitHub Metrics" />
 </p>
+
 
 
 
