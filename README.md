@@ -110,15 +110,10 @@
 ###
 
 
+
 <picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/KomeshBathula/KomeshBathula/main/github-snake-dark.svg"
-  />
-  <img
-    alt="github-snake"
-    src="https://raw.githubusercontent.com/KomeshBathula/KomeshBathula/main/github-snake.svg"
-  />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KomeshBathula/KomeshBathula/output/pacman-contribution-graph-dark.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/KomeshBathula/KomeshBathula/output/pacman-contribution-graph.svg">
 </picture>
 
 
