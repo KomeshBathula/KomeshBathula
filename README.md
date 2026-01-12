@@ -1,6 +1,4 @@
-<h1 align="center">Hey 👋What's Up?</h1>
-
-###
+<h1 align="center">Hey 👋 What's Up?</h1>
 
 <div align="center">
   <a href="https://git.io/typing-svg">
@@ -11,35 +9,30 @@
   </a>
 </div>
 
+---
 
-###
+## 😄 About Me
 
+🌱 Learning **Data Structures & Algorithms**, **Full Stack Development**  
+🎓 Pursuing **B.Tech in Computer Science and Engineering**  
+🔥 Exploring **AI tools** and trending technologies  
+💬 Ask me about **Java, JavaScript, C**
 
-###
+---
 
-<h2 align="left">😄 About Me</h2>
-
-###
-
-<h3 align="left">🌱 Learning Data Structures & Algorithms, Full Stack Development<br>🎓 Pursuing B.Tech in Computer Science and Engineering<br>🔥 Exploring the field of AI tools and trending tech<br>💬 Ask me about Java, JavaScript, C</h3>
-
-###
-
-<h2 align="left">🌍 Connect With Me</h2>
-
-###
+## 🌍 Connect With Me
 
 <div align="center">
   <a href="https://www.linkedin.com/in/komesh-bathula-4a91042a8/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
   </a>
-  <a href="komeshbathula@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <a href="mailto:komeshbathula@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge" height="25" />
   </a>
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&color=E4405F&logoColor=white&style=for-the-badge" height="25" />
 </div>
 
-###
+---
 
 <h2 align="left">Tech Stack 💻</h2>
 
@@ -83,30 +76,13 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 
-``` java
-if (youWant()){
-    youCan();
-} else {
-    youCant();
-}
-// - Komesh Bathula
-```
-
-<br clear="both">
+---
 
 <div align="center">
-
-## 📊 **GITHUB ANALYTICS** 📈
-
-</div>
-
-<div align="center">
-  
-<img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=KomeshBathula&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-<img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=KomeshBathula&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
-<br/>
-<img width="325" align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=KomeshBathula&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
-
+  <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=KomeshBathula&theme=react&border_radius=10" />
+  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=KomeshBathula&show_icons=true&theme=react&border_radius=10" />
+  <br/>
+  <img width="325" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=KomeshBathula&layout=compact&theme=react&border_radius=10" />
 </div>
 
 <div align="center">
@@ -115,30 +91,28 @@ if (youWant()){
 
 ---
 
-<div align="center">
-
-<h2 align="center">🏆 Achievements & Trophies</h2>
-
-<div align="center">
-  <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy" target="blank"><img src="https://github-profile-trophy-fork-two.vercel.app/?username=KomeshBathula&column=4&margin-w=15&margin-h=15&theme=dracula" alt="GitHub Trophies" /></a></p>
-</div>
-
-
-
-
-</div>
+<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
+<p align="center">
+  <a href="https://github.com/KomeshBathula">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=KomeshBathula&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
+      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=KomeshBathula&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
+      <img alt="GitHub Trophies" src="https://github-profile-trophy-ruddy.vercel.app/?username=KomeshBathula&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
+    </picture>
+  </a>
+</p>
 
 ---
 
-###
+<p align="center">
+  <a href="https://github.com/cheehwatang/github-readme-daily-quotes">
+    <img src="https://readme-daily-quotes.vercel.app/api" alt="Github Readme Daily Quotes" />
+  </a>
+</p>
 
-
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KomeshBathula/KomeshBathula/output/pacman-contribution-graph-dark.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/KomeshBathula/KomeshBathula/output/pacman-contribution-graph.svg">
 </picture>
-
-
-
-###
