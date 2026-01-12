@@ -120,7 +120,7 @@ if (youWant()){
 <h2 align="center">🏆 Achievements & Trophies</h2>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=KomeshBathula&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+  <p align="center"><a href="https://github.com/ryo-ma/github-profile-trophy" target="blank"><img src="https://github-profile-trophy-fork-two.vercel.app/?username=KomeshBathula&column=4&margin-w=15&margin-h=15&theme=dracula" alt="GitHub Trophies" /></a></p>
 </div>
 
 
