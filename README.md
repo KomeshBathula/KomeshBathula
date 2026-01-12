@@ -44,7 +44,7 @@
 <h2 align="left">Tech Stack 💻</h2>
 
 #### Languages
-[!C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 
 <br clear="both">
 
