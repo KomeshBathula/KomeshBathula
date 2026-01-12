@@ -83,6 +83,15 @@
 ![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 
+``` java
+if (youWant()){
+    youCan();
+} else {
+    youCant();
+}
+// - Komesh Bathula
+```
+
 <br clear="both">
 
 <div align="center">
@@ -110,9 +119,9 @@
 
 <h2 align="center">🏆 Achievements & Trophies</h2>
 
-<p align="center">
-  <img src="metrics.svg" alt="GitHub Metrics" />
-</p>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app?username=KomeshBathula&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
+</div>
 
 
 
