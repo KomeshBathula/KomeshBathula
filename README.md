@@ -44,6 +44,7 @@
 <h2 align="left">Tech Stack 💻</h2>
 
 #### Languages
+![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=java)
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
