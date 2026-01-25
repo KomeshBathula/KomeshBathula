@@ -87,15 +87,40 @@
 ---
 
 <div align="center">
-  <img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=KomeshBathula&theme=react&border_radius=10" />
-  <img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=KomeshBathula&show_icons=true&theme=react&border_radius=10" />
-  <br/>
-  <img width="325" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=KomeshBathula&layout=compact&theme=react&border_radius=10" />
+
+  <!-- GitHub Streak -->
+  <img
+    src="https://github-readme-streak-stats-salesp07.vercel.app/?user=KomeshBathula&theme=react&border_radius=10"
+    width="420"
+    alt="GitHub Streak"
+  />
+  <br/><br/>
+
+  <!-- GitHub Stats -->
+  <img
+    src="https://github-readme-stats-salesp07.vercel.app/api?username=KomeshBathula&show_icons=true&theme=react&border_radius=10"
+    width="420"
+    alt="GitHub Stats"
+  />
+  <br/><br/>
+
+  <!-- Top Languages -->
+  <img
+    src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=KomeshBathula&layout=compact&theme=react&border_radius=10"
+    width="420"
+    alt="Top Languages"
+  />
+  <br/><br/>
+
+  <!-- Contribution Graph -->
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=KomeshBathula&theme=react-dark&bg_color=20232a&hide_border=true"
+    width="95%"
+    alt="Contribution Graph"
+  />
+
 </div>
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KomeshBathula&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
-</div>
 
 ---
 
