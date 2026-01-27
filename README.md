@@ -85,7 +85,7 @@
 ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ---
-
+<h2 align="center">📊 GitHub Stats & Activity</h2>
 <div align="center">
 
   <!-- GitHub Streak -->
@@ -137,15 +137,21 @@
 
 ---
 
+<h2 align="center">💬 Daily Developer Quote</h2>
+
 <p align="center">
   <a href="https://github.com/cheehwatang/github-readme-daily-quotes">
     <img src="https://readme-daily-quotes.vercel.app/api" alt="Github Readme Daily Quotes" />
   </a>
 </p>
 
+
 ---
+
+## <h2 align="center">🕹️ Pacman Contribution Graph</h2>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KomeshBathula/KomeshBathula/output/pacman-contribution-graph-dark.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/KomeshBathula/KomeshBathula/output/pacman-contribution-graph.svg">
 </picture>
+
