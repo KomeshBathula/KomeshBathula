@@ -2,10 +2,7 @@
 
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img
-      src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&center=true&vCenter=true&random=true&width=435&lines=I'm+Komesh+Bathula"
-      alt="Typing SVG"
-    />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=009FF7&center=true&vCenter=true&width=435&lines=I'm+Komesh+Bathula;Full+Stack+Developer;Problem+Solver" alt="Typing SVG" />
   </a>
 </div>
 
@@ -85,6 +82,15 @@
 ![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
 
 ---
+
+## 👨‍💻 Competitive Coding Profiles
+
+| LeetCode | Codeforces |
+|---------|------------|
+| ![LeetCode Stats](https://leetcard.jacoblin.cool/Komesh_Bathula?theme=unicorn&extension=activity) | ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=komeshbathula) |
+
+
+---
 <h2 align="center">📊 GitHub Stats & Activity</h2>
 <div align="center">
 
@@ -148,7 +154,7 @@
 
 ---
 
-## <h2 align="center">🕹️ Pacman Contribution Graph</h2>
+ <h2 align="center">🕹️ Pacman Contribution Graph</h2>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KomeshBathula/KomeshBathula/output/pacman-contribution-graph-dark.svg">
