@@ -70,11 +70,12 @@
 ![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
 
 ### Coding Platforms
+![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
+![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
 ![CodeChef](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white)
 ![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)
 ![HackerEarth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)
 ![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
-![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
 
 ### Version Control
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
@@ -85,9 +86,9 @@
 
 ## 👨‍💻 Competitive Coding Profiles
 
-| LeetCode | Codeforces |
-|---------|------------|
-| ![LeetCode Stats](https://leetcard.jacoblin.cool/Komesh_Bathula?theme=unicorn&extension=activity) | ![Codeforces Stats](https://codeforces-readme-stats.vercel.app/api/card?username=komeshbathula) |
+| LeetCode | GeeksforGeeks |
+|---------|---------------|
+| ![LeetCode Stats](https://leetcard.jacoblin.cool/Komesh_Bathula?theme=unicorn&extension=activity) | ![GFG Stats](https://geeks-for-geeks-stats-card.vercel.app/?username=komeshbathula) |
 
 
 ---
