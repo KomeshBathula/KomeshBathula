@@ -6,6 +6,10 @@
   </a>
 </div>
 
+<div align="center">
+<img src="https://komarev.com/ghpvc/?username=KomeshBathula&label=Profile%20views&color=0e75b6&style=for-the-badge" />
+</div>
+
 ---
 
 ## 😄 About Me
@@ -16,6 +20,7 @@
 💬 Ask me about **Java, JavaScript, C**
 
 ---
+
 
 ## 🌍 Connect With Me
 
@@ -84,50 +89,47 @@
 
 ---
 
-## 👨‍💻 Competitive Coding Profiles
+## 👨‍💻 Competitive Coding
 
-| LeetCode | GeeksforGeeks |
-|---------|---------------|
-| ![LeetCode Stats](https://leetcard.jacoblin.cool/Komesh_Bathula?theme=unicorn&extension=activity) | ![GFG Stats](https://geeks-for-geeks-stats-card.vercel.app/?username=komeshbathula) |
+<p align="center">
+<img src="https://leetcard.jacoblin.cool/Komesh_Bathula?theme=unicorn&extension=activity" height="250"/>
+<img src="https://geeks-for-geeks-stats-card.vercel.app/?username=komeshbathula" height="250"/>
+</p>
 
 
 ---
-<h2 align="center">📊 GitHub Stats & Activity</h2>
+
+<h2 align="center">📈 Repository Activity</h2>
+
 <div align="center">
 
-  <!-- GitHub Streak -->
-  <img
-    src="https://github-readme-streak-stats-salesp07.vercel.app/?user=KomeshBathula&theme=react&border_radius=10"
-    width="420"
-    alt="GitHub Streak"
-  />
-  <br/><br/>
-
-  <!-- GitHub Stats -->
-  <img
-    src="https://github-readme-stats-salesp07.vercel.app/api?username=KomeshBathula&show_icons=true&theme=react&border_radius=10"
-    width="420"
-    alt="GitHub Stats"
-  />
-  <br/><br/>
-
-  <!-- Top Languages -->
-  <img
-    src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=KomeshBathula&layout=compact&theme=react&border_radius=10"
-    width="420"
-    alt="Top Languages"
-  />
-  <br/><br/>
-
-  <!-- Contribution Graph -->
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=KomeshBathula&theme=react-dark&bg_color=20232a&hide_border=true"
-    width="95%"
-    alt="Contribution Graph"
-  />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KomeshBathula&theme=github_dark"/>
 
 </div>
 
+<br/>
+
+<h2 align="center">📊 GitHub Stats & Activity</h2>
+
+<div align="center">
+
+<!-- Row 1: Streak -->
+<p>
+<img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=KomeshBathula&theme=react&border_radius=10" height="180"/>
+</p>
+
+<!-- Row 2: Stats + Languages -->
+<p>
+<img src="https://github-readme-stats-salesp07.vercel.app/api?username=KomeshBathula&show_icons=true&theme=react&border_radius=10" height="170"/>
+<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=KomeshBathula&layout=compact&theme=react&border_radius=10" height="170"/>
+</p>
+
+<!-- Row 3: Contribution Graph -->
+<p>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=KomeshBathula&theme=react-dark&bg_color=20232a&hide_border=true" width="95%"/>
+</p>
+
+</div>
 
 ---
 
