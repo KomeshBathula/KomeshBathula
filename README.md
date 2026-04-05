@@ -90,7 +90,7 @@
 
 <p align="center">
 <img src="https://leetcard.jacoblin.cool/Komesh_Bathula?theme=unicorn&extension=activity" height="250"/>
-<img src="https://geeks-for-geeks-stats-card.vercel.app/?username=komeshbathula" height="250"/>
+<img src="https://geeks-for-geeks-stats-card.vercel.app/komeshbathula?theme=dark" height="250"/>
 </p>
 
 
@@ -102,30 +102,23 @@
 
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KomeshBathula&theme=github_dark"/>
 
-</div>
-
-<br/>
-
-<h2 align="center">📊 GitHub Stats & Activity</h2>
-
 <div align="center">
 
-<!-- Row 1: Streak -->
-<p>
-<img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=KomeshBathula&theme=react&border_radius=10" height="180"/>
-</p>
+## 📊 **GITHUB ANALYTICS** 📈
 
-<!-- Row 2: Stats + Languages -->
-<p>
-<img src="https://github-readme-stats.vercel.app/api?username=KomeshBathula&show_icons=true&include_all_commits=true&count_private=true&theme=react" height="180"/>
-<img src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=KomeshBathula&layout=compact&theme=react&border_radius=10" height="170"/>
-</p>
+</div>
 
-<!-- Row 3: Contribution Graph -->
-<p>
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=KomeshBathula&theme=react-dark&bg_color=20232a&hide_border=true" width="95%"/>
-</p>
+<div align="center">
+  
+<img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=KomeshBathula&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+<img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=KomeshBathula&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+<br/>
+<img width="325" align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=KomeshBathula&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
 
+</div>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KomeshBathula&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
 </div>
 
 ---
