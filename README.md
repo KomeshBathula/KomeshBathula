@@ -38,7 +38,7 @@ komesh@dev:~$ whoami
 
 > Secure full-stack ATS with 3 role-based portals (Admin / Recruiter / Candidate)
 
-- `+` JWT auth, Spring Security, BCrypt password encryption
+- `+` JWT auth, Spring Security, BCrypt password hashing
 - `+` 6-state recruitment workflow with audit trail, email notifications, dynamic search & filtering
 - `+` Controller → Service → Repository architecture, DTO mapping, JPA/Hibernate, global exception handling
 
