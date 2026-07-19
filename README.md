@@ -1,155 +1,97 @@
-<h1 align="center">Hey 👋 I'm Komesh Bathula</h1>
-
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=35&pause=1000&color=009FF7&center=true&vCenter=true&width=435&lines=Java+Developer;Backend+Engineer;AI+Enthusiast;Problem+Solver;Passionate+Coder" alt="Typing SVG" />
-  </a>
-</div>
-
-
----
-
-## 😄 About Me
-
-🌱 Learning **Data Structures & Algorithms**, **Full Stack Development**  
-🎓 Pursuing **B.Tech in Computer Science and Engineering**  
-🔥 Exploring **AI tools** and trending technologies  
-💬 Ask me about **Java, JavaScript**
-
----
-
-
-## 🌍 Connect With Me
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/komesh-bathula-4a91042a8/" target="_blank">
-    <img
-      src="https://img.shields.io/static/v1?label=&message=LinkedIn&logo=linkedin&color=0077B5&logoColor=white&style=for-the-badge"
-      height="25"
-      alt="LinkedIn"
-    />
-  </a>
-
-  <a href="mailto:komeshbathula@gmail.com">
-    <img
-      src="https://img.shields.io/static/v1?label=&message=Gmail&logo=gmail&color=D14836&logoColor=white&style=for-the-badge"
-      height="25"
-      alt="Gmail"
-    />
-  </a>
-</div>
-
----
-
-<h2 align="left">Tech Stack 💻</h2>
-
-#### Languages
-![Java](https://img.shields.io/badge/-Java-000?style=for-the-badge&logo=java)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-
-#### JS Framework/Library
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-#### CSS Framework/Library
-![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-000?style=for-the-badge&logo=tailwind-css)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-000?style=for-the-badge&logo=bootstrap)
-
-#### Database
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-
-### IDE
-![Colab](https://img.shields.io/badge/Colab-F9AB00?style=for-the-badge&logo=googlecolab&color=525252)
-![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-
-### OS
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=for-the-badge&logo=fedora&logoColor=white)
-
-### Coding Platforms
-![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
-![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-0F9D58?style=for-the-badge&logo=geeksforgeeks&logoColor=white)
-![CodeChef](https://img.shields.io/badge/Codechef-%23B92B27.svg?&style=for-the-badge&logo=Codechef&logoColor=white)
-![Codeforces](https://img.shields.io/badge/Codeforces-445f9d?style=for-the-badge&logo=Codeforces&logoColor=white)
-![HackerEarth](https://img.shields.io/badge/HackerEarth-%232C3454.svg?&style=for-the-badge&logo=HackerEarth&logoColor=Blue)
-![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)
-
-### Version Control
-![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-330F63?style=for-the-badge&logo=gitlab&logoColor=white)
-
----
-
-## 👨‍💻 Competitive Coding
-
-<p align="center">
-<img src="https://leetcard.jacoblin.cool/Komesh_Bathula?theme=unicorn&extension=activity" height="250"/>
-<img src="https://geeks-for-geeks-stats-card.vercel.app/komeshbathula?theme=dark" height="250"/>
-</p>
-
-
----
-
-<h2 align="center">📈 Repository Activity</h2>
-
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KomeshBathula&theme=github_dark"/>
-
-<div align="center">
-
-## 📊 **GITHUB ANALYTICS** 📈
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:009FF7&height=200&section=header&text=KOMESH%20BATHULA&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Java%20%7C%20Spring%20Boot%20%7C%20Full%20Stack%20%7C%20DSA&descAlignY=58&descSize=18" width="100%"/>
 
 </div>
 
 <div align="center">
-  
-<img width="390" src="https://github-readme-streak-stats-salesp07.vercel.app/?user=KomeshBathula&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
-<img width="390" src="https://github-readme-stats-salesp07.vercel.app/api?username=KomeshBathula&count_private=true&show_icons=true&theme=react&rank_icon=github&border_radius=10" alt="readme stats" />
+
+```bash
+komesh@dev:~$ whoami
+```
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1200&color=009FF7&center=true&vCenter=true&width=600&lines=CS+Undergrad+%40+SVEC+;1800%2B+DSA+problems+%7C+116%2B+contests;Building+iMentor+%40+NIT+Andhra+Pradesh;Java+%2F+Spring+Boot+%2F+React+%2F+MongoDB" alt="Typing SVG" />
+
 <br/>
-<img width="325" align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=KomeshBathula&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5" alt="top langs" />
+
+<img src="https://komarev.com/ghpvc/?username=KomeshBathula&color=009FF7&style=flat-square&label=PROFILE+VIEWS" />
+
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/komesh-bathula" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:komeshbathula@gmail.com"><img src="https://img.shields.io/badge/Gmail-say%20hi-EA4335?style=flat-square&logo=gmail&logoColor=white" /></a>
+<a href="https://komeshbathula.is-a.dev/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-visit-0F2027?style=flat-square&logo=vercel&logoColor=white" /></a>
+<a href="https://codolio.com/profile/komesh_bathula" target="_blank"><img src="https://img.shields.io/badge/Codolio-track%20record-6A4C93?style=flat-square&logo=codeforces&logoColor=white" /></a>
+<a href="https://www.instagram.com/komesh_bathula/" target="_blank"><img src="https://img.shields.io/badge/Instagram-follow-E4405F?style=flat-square&logo=instagram&logoColor=white" /></a>
 
 </div>
+
+<br/>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:009FF7,100:0F2027&height=2&width=100%"/>
+
+## `$ git log --oneline --projects`
+
+<details open>
+<summary><b>🟢 feat: applicant-tracking-system</b> — Java · Spring Boot · Spring Security · JWT · React · MySQL · Docker</summary>
+<br/>
+
+> Secure full-stack ATS with 3 role-based portals (Admin / Recruiter / Candidate)
+
+- `+` JWT auth, Spring Security, BCrypt password hashing
+- `+` 6-state recruitment workflow with audit trail, email notifications, dynamic search & filtering
+- `+` Controller → Service → Repository architecture, DTO mapping, JPA/Hibernate, global exception handling
+
+</details>
+
+<details>
+<summary><b>🟡 feat: learntrack-yt</b> — React.js · Express.js · MongoDB · Groq API (Llama-3)</summary>
+<br/>
+
+> AI-powered YouTube LMS
+
+- `+` Video summaries across 3 detail levels & 3 regional languages via Llama-3
+- `+` GitHub-style activity heatmap for learning streaks
+- `+` Google OAuth 2.0 + JWT for persistent, personalized notes
+
+</details>
+
+<details>
+<summary><b>🔵 feat: edusync</b> — React.js · Node.js · MongoDB · Groq API (Llama-3.3)</summary>
+<br/>
+
+> Adaptive learning platform with real-time integrity enforcement
+
+- `+` Auto-generated AI quizzes from PDFs & YouTube videos
+- `+` Hybrid risk-prediction engine (ML + heuristics) for weakness detection
+- `+` "Ultra-Strict Exam Mode" for proctored, real-time integrity checks
+
+</details>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:009FF7,100:0F2027&height=2&width=100%"/>
+
+## `$ cat stats.json`
+
+<table align="center">
+<tr>
+<td><img src="https://github-readme-stats-salesp07.vercel.app/api?username=KomeshBathula&count_private=true&show_icons=true&theme=react&rank_icon=github&hide_border=true&bg_color=00000000" /></td>
+<td><img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=KomeshBathula&count_private=true&theme=react&hide_border=true&background=00000000" /></td>
+</tr>
+</table>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=KomeshBathula&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
+<img width="60%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=KomeshBathula&hide=HTML,Cython&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=00000000" />
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:009FF7,100:0F2027&height=2&width=100%"/>
 
-<h2 align="center">🏆 Gɪᴛʜᴜʙ Tʀᴏᴘʜɪᴇs 🏆</h2>
-<p align="center">
-  <a href="https://github.com/KomeshBathula">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=KomeshBathula&no-bg=true&row=2&column=6&margin-w=20&margin-h=20&theme=monokai">
-      <source media="(prefers-color-scheme: light)" srcset="https://github-profile-trophy-ruddy.vercel.app/?username=KomeshBathula&no-bg=true&row=2&column=6&margin-w=20&margin-h=20">
-      <img alt="GitHub Trophies" src="https://github-profile-trophy-ruddy.vercel.app/?username=KomeshBathula&no-bg=true&no-frame=true&row=2&column=6&margin-w=20&margin-h=20">
-    </picture>
-  </a>
-</p>
+## `$ ls certifications/`
 
----
+| 📜 Certificate | Score |
+|---|---|
+| MongoDB Certified Developer Associate (Java) | 93% |
+| Microsoft Azure Fundamentals (AZ-900) | 952 / 1000 |
 
-<h2 align="center">💬 Daily Developer Quote</h2>
-
-<p align="center">
-  <a href="https://github.com/cheehwatang/github-readme-daily-quotes">
-    <img src="https://readme-daily-quotes.vercel.app/api" alt="Github Readme Daily Quotes" />
-  </a>
-</p>
-
-
----
-
- <h2 align="center">🕹️ Pacman Contribution Graph</h2>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/KomeshBathula/KomeshBathula/output/pacman-contribution-graph-dark.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/KomeshBathula/KomeshBathula/output/pacman-contribution-graph.svg">
-</picture>
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:009FF7&height=100&section=footer"/>
+</div>
