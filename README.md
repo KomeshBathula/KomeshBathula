@@ -32,7 +32,7 @@ komesh@dev:~$ whoami
 
 ## `$ git log --oneline --projects`
 
-<details open>
+<details>
 <summary><b>🟢 feat: applicant-tracking-system</b> — Java · Spring Boot · Spring Security · JWT · React · MySQL · Docker</summary>
 <br/>
 
@@ -45,7 +45,7 @@ komesh@dev:~$ whoami
 </details>
 
 <details>
-<summary><b>🟡 feat: learntrack-yt</b> — React.js · Express.js · MongoDB · Groq API (Llama-3)</summary>
+<summary><b>🟡 feat: learntrack-yt</b> — React.js · Node.js · Express.js · MongoDB · Groq API (Llama-3)</summary>
 <br/>
 
 > AI-powered YouTube LMS
@@ -57,7 +57,7 @@ komesh@dev:~$ whoami
 </details>
 
 <details>
-<summary><b>🔵 feat: edusync</b> — React.js · Node.js · MongoDB · Groq API (Llama-3.3)</summary>
+<summary><b>🔵 feat: edusync</b> — React.js · Node.js · Express.js · MongoDB · Groq API (Llama-3.3)</summary>
 <br/>
 
 > Adaptive learning platform with real-time integrity enforcement
@@ -80,7 +80,7 @@ komesh@dev:~$ whoami
 </table>
 
 <div align="center">
-<img width="60%" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=KomeshBathula&hide=HTML,Cython&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=00000000" />
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=KomeshBathula&theme=react-dark&hide_border=true&bg_color=00000000&color=009FF7&line=009FF7&point=ffffff&area=true&area_color=0F2027" />
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=0:009FF7,100:0F2027&height=2&width=100%"/>
