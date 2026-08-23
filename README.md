@@ -10,7 +10,7 @@
 komesh@dev:~$ whoami
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1200&color=009FF7&center=true&vCenter=true&width=600&lines=CS+Undergrad+%40+SVEC+;1800%2B+DSA+problems+%7C+116%2B+contests;Building+iMentor+%40+NIT+Andhra+Pradesh;Java+%2F+Spring+Boot+%2F+React+%2F+MongoDB" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=22&pause=1200&color=009FF7&center=true&vCenter=true&width=600&lines=CS+Undergrad+%40+SVEC+;1400%2B+DSA+problems+%7C+116%2B+contests;Java+%2F+Spring+Boot+%2F+React+%2F+MongoDB" alt="Typing SVG" />
 
 <br/>
 
